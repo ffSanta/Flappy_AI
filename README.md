@@ -5,7 +5,8 @@ The project demonstrates a custom implementation of a Neural Network
 trained through a Genetic Algorithm to autonomously play the game.
 
 This project is intended for learning, experimentation, and evaluation purposes.
-
+Demo Video: https://www.youtube.com/watch?v=op9LmyMhwq8
+ 
 ---
 
 ## Features
